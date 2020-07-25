@@ -1,2 +1,2 @@
 # AutomatingAWSwithPython
-/*Repository Automating AWS with Python */
+/*Repository Automating AWS with Python-Theone */
